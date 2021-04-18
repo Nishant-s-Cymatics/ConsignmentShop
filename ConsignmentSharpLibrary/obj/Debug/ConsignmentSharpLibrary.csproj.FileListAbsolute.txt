@@ -1,0 +1,5 @@
+C:\Nishant\My projects\repo\ConsignmentSharpLibrary\bin\Debug\ConsignmentSharpLibrary.dll
+C:\Nishant\My projects\repo\ConsignmentSharpLibrary\bin\Debug\ConsignmentSharpLibrary.pdb
+C:\Nishant\My projects\repo\ConsignmentSharpLibrary\obj\Debug\ConsignmentSharpLibrary.csproj.CoreCompileInputs.cache
+C:\Nishant\My projects\repo\ConsignmentSharpLibrary\obj\Debug\ConsignmentSharpLibrary.dll
+C:\Nishant\My projects\repo\ConsignmentSharpLibrary\obj\Debug\ConsignmentSharpLibrary.pdb

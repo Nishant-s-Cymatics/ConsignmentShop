@@ -1,0 +1,13 @@
+C:\Nishant\My projects\repo\ConsignmentSharpUI\bin\Debug\ConsignmentSharpUI.exe.config
+C:\Nishant\My projects\repo\ConsignmentSharpUI\bin\Debug\ConsignmentSharpUI.exe
+C:\Nishant\My projects\repo\ConsignmentSharpUI\bin\Debug\ConsignmentSharpUI.pdb
+C:\Nishant\My projects\repo\ConsignmentSharpUI\obj\Debug\ConsignmentSharpUI.csprojAssemblyReference.cache
+C:\Nishant\My projects\repo\ConsignmentSharpUI\obj\Debug\ConsignmentSharpUI.ConsignmentSharp.resources
+C:\Nishant\My projects\repo\ConsignmentSharpUI\obj\Debug\ConsignmentSharpUI.Properties.Resources.resources
+C:\Nishant\My projects\repo\ConsignmentSharpUI\obj\Debug\ConsignmentSharpUI.csproj.GenerateResource.cache
+C:\Nishant\My projects\repo\ConsignmentSharpUI\obj\Debug\ConsignmentSharpUI.csproj.CoreCompileInputs.cache
+C:\Nishant\My projects\repo\ConsignmentSharpUI\obj\Debug\ConsignmentSharpUI.exe
+C:\Nishant\My projects\repo\ConsignmentSharpUI\obj\Debug\ConsignmentSharpUI.pdb
+C:\Nishant\My projects\repo\ConsignmentSharpUI\bin\Debug\ConsignmentSharpLibrary.dll
+C:\Nishant\My projects\repo\ConsignmentSharpUI\bin\Debug\ConsignmentSharpLibrary.pdb
+C:\Nishant\My projects\repo\ConsignmentSharpUI\obj\Debug\ConsignmentSharpUI.csproj.CopyComplete
